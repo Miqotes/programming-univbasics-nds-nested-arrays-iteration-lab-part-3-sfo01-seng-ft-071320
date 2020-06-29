@@ -6,7 +6,7 @@ def join_nested_strings(src)
     if src[row_index][element_index] == ""
       cool_string << src[row_index][element_index]
       end
+      row_index += 1 
     element_index += 1 
     end
-  row_index += 1 
 end
