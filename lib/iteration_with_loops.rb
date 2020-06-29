@@ -9,4 +9,5 @@ def join_nested_strings(src)
       row_index += 1 
     element_index += 1 
     end
+    cool_string
 end
